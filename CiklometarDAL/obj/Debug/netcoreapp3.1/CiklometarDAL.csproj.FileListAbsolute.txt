@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\bin\Debug\netcoreapp3.1\CiklometarDAL.deps.json
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\bin\Debug\netcoreapp3.1\CiklometarDAL.runtimeconfig.json
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\bin\Debug\netcoreapp3.1\CiklometarDAL.runtimeconfig.dev.json
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\bin\Debug\netcoreapp3.1\CiklometarDAL.dll
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\bin\Debug\netcoreapp3.1\CiklometarDAL.pdb
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.AssemblyInfo.cs
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.dll
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.pdb
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.genruntimeconfig.cache
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarDAL\obj\Debug\netcoreapp3.1\CiklometarDAL.sourcelink.json

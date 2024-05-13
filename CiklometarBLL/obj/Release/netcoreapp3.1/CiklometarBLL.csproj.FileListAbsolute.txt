@@ -1,0 +1,16 @@
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\bin\Release\netcoreapp3.1\CiklometarBLL.deps.json
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\bin\Release\netcoreapp3.1\CiklometarBLL.runtimeconfig.json
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\bin\Release\netcoreapp3.1\CiklometarBLL.runtimeconfig.dev.json
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\bin\Release\netcoreapp3.1\CiklometarBLL.dll
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\bin\Release\netcoreapp3.1\CiklometarBLL.pdb
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\bin\Release\netcoreapp3.1\CiklometarDAL.dll
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\bin\Release\netcoreapp3.1\CiklometarDAL.pdb
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.csprojAssemblyReference.cache
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.AssemblyInfo.cs
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.csproj.CopyComplete
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.dll
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.pdb
+C:\Users\Mario\source\repos\CiklometarAPI\CiklometarBLL\obj\Release\netcoreapp3.1\CiklometarBLL.genruntimeconfig.cache
